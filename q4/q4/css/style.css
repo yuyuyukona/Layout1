@@ -1,0 +1,39 @@
+@charset "UTF-8";
+.contents{
+  width: 100%;
+  display: table;
+  margin-top: 50px;
+}
+.contents:first-child{
+  margin-top: 0;
+}
+.box{
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+.red{
+  background-color: #ff7b7b;
+  width: 300px;
+}
+.blue{
+  background-color: #7b86ff;
+}
+.yellow{
+  background-color: #fff27b;
+  width: 300px;
+}
+.green{
+  background-color: #7bff91;
+}
+.pink{
+  background-color: #ff7be2;
+  width: 400px;
+}
+.orange{
+  background-color: #ffc67b;
+  width: 400px;
+}
+.iceblue{
+  background-color: #7bf2ff;
+}
