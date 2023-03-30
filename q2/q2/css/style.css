@@ -8,9 +8,12 @@
   list-style: none;
   background-color: #d2b48c;
   width: 200px;
-  margin: 30px;
+  margin-right: 60px;
   padding: 10px;
   border-radius: 13px;
   outline: 10px solid #655;
   box-shadow: 0 0 0 6px #655;
+}
+.card:last-child{
+  margin: 0;
 }
